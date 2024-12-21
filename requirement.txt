@@ -1,6 +1,5 @@
 streamlit
-gTTS
+groq
 langchain
 langchain_groq
 python-dotenv
-groq
