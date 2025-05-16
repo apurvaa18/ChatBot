@@ -4,9 +4,9 @@ A Streamlit-based conversational AI assistant powered by Groq large language mod
 
 Requirements:
 
-streamlit
-gtts
-python-dotenv
-langchain
-langchain-groq
+streamlit,
+gtts,
+python-dotenv,
+langchain,
+langchain-groq,
 groq
